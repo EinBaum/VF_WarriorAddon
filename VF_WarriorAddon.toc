@@ -1,0 +1,11 @@
+## Interface: 11200
+## Title: VF_WarriorAddon
+## Author: Dilatazu (EmeraldDream @ www.emeralddream.com) Dilatazu@gmail.com
+## Version: 1.0
+## Notes: 
+## Dependencies: 
+## OptionalDeps: 
+## SavedVariablesPerCharacter: 
+## SavedVariables: 
+VF_WarriorAddon.xml
+VF_WarriorAddon.lua

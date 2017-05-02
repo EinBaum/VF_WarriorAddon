@@ -1,2 +1,13 @@
 # VF_WarriorAddon
-WoW 1.12.1 AddOn: Announces Last Stand / Shield Wall / Missed Taunts
+
+Author: [Dilatazu](https://github.com/Dilatazu)
+
+Announces the following in party and raid chat:
+
+- Last Stand
+- Shield Wall
+- Challenging Shout
+
+- Resisted Challenging Shout
+- Missed Mocking Blow
+- Resisted Taunt
